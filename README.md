@@ -8,4 +8,5 @@
 
 
 Times people visited my profile :p
+
 <img src="https://profile-counter.glitch.me/AnyBananaGAME/count.svg" />
